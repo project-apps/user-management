@@ -1,0 +1,10 @@
+#eureka:
+#   client: 
+#      serviceUrl:
+#         defaultZone: http://localhost:8761/eureka
+#eureka:
+#   instances:
+#      statusPageUrlPath:
+#      helathCheckUrlPath:
+server:
+   port: 8082
