@@ -5,7 +5,7 @@ server:
 logging:
    level:
       root: INFO
-      org.auth: TRACE
+      org.user: TRACE
       org.springframework.web: INFO
       org.springframework.security: INFO
       org.apache.tomcat.util.net: INFO
