@@ -8,7 +8,7 @@ public class UserManagementApplication {
 
 	public static void main(String[] args) {
 		SpringApplication app = new SpringApplication(UserManagementApplication.class);
-		app.run();
+		app.run(args);
 	}
 
 }
